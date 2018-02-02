@@ -1,0 +1,17 @@
+{
+  "name": "MeRead",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "authors": [
+    "Dangare"
+  ],
+  
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

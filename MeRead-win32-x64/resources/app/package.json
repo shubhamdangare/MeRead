@@ -1,0 +1,13 @@
+{
+  "name": "MeRead",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "query-string": "^5.0.1"
+  }
+}
